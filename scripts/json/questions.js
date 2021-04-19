@@ -128,7 +128,7 @@ questions = { // don't change this line
         },
         "tradvals": {
             "question_en": "In your ideal society, would traditional values be upheld?",
-            "question_cs": "Byly by tradiční hodnoty prosazovány ve Vaší ideální společnosti",
+            "question_cs": "Byly by tradiční hodnoty prosazovány ve Vaší ideální společnosti?",
             "answers": [
                 "yes",
                 "no"
@@ -440,6 +440,7 @@ questions = { // don't change this line
         },
         "vanguard": {
             "question_en": "Is a vanguard party necessary to lead the working class in the revolution?",
+            "question_cs": "Je předvojová strana nutná k vedení dělnické třídy v revoluci?",
             "answers": [
                 "yes",
                 "no"
@@ -453,6 +454,7 @@ questions = { // don't change this line
         },
         "vanguard_ed": {
             "question_en": "Should the role of this vanguard party be only to educate? As opposed to being some form of political leadership.",
+            "question_cs": "Měla by role této předvojové strany být pouze ve výuce (namísto nějakého způsobu politického vedení)?",
             "answers": [
                 "yes",
                 "no"
@@ -466,6 +468,7 @@ questions = { // don't change this line
         },
         "cultural_revolution": {
             "question_en": "Should there be a cultural revolution to purge reactionary thought from society?",
+            "question_cs": "Měla by tu být kulturní revoluce k odstranění reakcionářského myšlení ze společnosti?",
             "answers": [
                 "yes",
                 "no"
@@ -479,6 +482,7 @@ questions = { // don't change this line
         },
         "3worlds": {
             "question_en": "Do you subscribe to Mao Zedong's Three Worlds Theory?",
+            "question_cs": "Souhlasíte s teorií tří světů Maa Ce-tunga?",
             "answers": [
                 "yes",
                 "no"
@@ -492,6 +496,7 @@ questions = { // don't change this line
         },
         "nep": {
             "question_en": "Do you think that a multi-generational stage of state capitalism is necessary to prepare the economy for socialism?",
+            "question_cs": "Myslíte si, že mnohogenerační fáze státního kapitalismu je nutná na přípravu ekonomie na socialismus?",
             "answers": [
                 "yes",
                 "no"
@@ -505,6 +510,7 @@ questions = { // don't change this line
         },
         "socinone": {
             "question_en": "Do you think that socialism can be achieved within one nation?",
+            "question_cs": "Myslíte si, že socialismus může být dosažen v jedné zemi?",
             "answers": [
                 "yes",
                 "no"
@@ -518,6 +524,7 @@ questions = { // don't change this line
         },
         "aboveall1": {
             "question_en": "Do you think that the nation should be of most importance above all?",
+            "question_cs": "Myslíte si, že národ by měl mít nejvyšší důležitost nade vše?",
             "answers": [
                 "yes",
                 "no"
@@ -531,6 +538,7 @@ questions = { // don't change this line
         },
         "posadism": {
             "question_en": "Do you think an apocalyptic event would be the best way to achieve socialism?",
+            "question_cs": "Myslíte si, že apokalyptická událost je nejlepší způsob dosažení socialismu?",
             "answers": [
                 "yes",
                 "no"
@@ -544,6 +552,7 @@ questions = { // don't change this line
         },
         "rev_ed": {
             "question_en": "Should there be a revolutionary party to teach the masses during and after the revolution?",
+            "question_cs": "Měla by tu být revoluční strana na výchovu lidu při a po revoluci?",
             "answers": [
                 "yes",
                 "no"
@@ -557,6 +566,7 @@ questions = { // don't change this line
         },
         "synd1": {
             "question_en": "Should society be organized through unions?",
+            "question_cs": "Měla by společnost být organizována přes odbory?",
             "answers": [
                 "yes",
                 "no"
@@ -570,6 +580,7 @@ questions = { // don't change this line
         },
         "centplan": {
             "question_en": "Should the economy be planned centrally?",
+            "question_cs": "Měla by ekonomie být plánována centrálně?",
             "answers": [
                 "yes",
                 "no"
@@ -583,6 +594,7 @@ questions = { // don't change this line
         },
         "mediabad": {
             "question_en": "Is mass media your focal issue with capitalism?",
+            "question_cs": "Jsou hromadné sděšlovací prostředky Vaším problémem s kapitalismem?",
             "answers": [
                 "yes",
                 "no"
@@ -596,6 +608,7 @@ questions = { // don't change this line
         },
         "labvouch": {
             "question_en": "Should society feature labour vouchers as compensation for work?",
+            "question_cs": "Měla by společnost mít pracovní poukázky jako kompenzaci za práci?",
             "answers": [
                 "yes",
                 "no"
@@ -609,6 +622,7 @@ questions = { // don't change this line
         },
         "agriculture": {
             "question_en": "Should agriculture be practiced?",
+            "question_cs": "Mělo by se provozovat zemědělství?",
             "answers": [
                 "yes",
                 "no"
@@ -622,6 +636,7 @@ questions = { // don't change this line
         },
         "synd2": {
             "question_en": "Should society be organized through unions?",
+            "question_cs": "Měla by být společnost organizována skrz odbory?",
             "answers": [
                 "yes",
                 "no"
@@ -635,6 +650,7 @@ questions = { // don't change this line
         },
         "techno": {
             "question_en": "Should the state and/or economy be run exclusively by experts?",
+                            "question_cs": "Měl(a) by stát a/nebo ekonomie být řízena exkluzivně experty?",
             "answers": [
                 "yes",
                 "no"
@@ -648,6 +664,7 @@ questions = { // don't change this line
         },
         "electsoc": {
             "question_en": "Should socialism be achieved through electoralism or through revolutionary means?",
+            "question_cs": "Měl by socialismus být dosažen pomocí elektoralismu nebo skrz revoluční způsoby?",
             "answers": [
                 "electoralism",
                 "revolution"
@@ -661,6 +678,7 @@ questions = { // don't change this line
         },
         "soc_directstate2": {
             "question_en": "Should the workers directly own the means of production or should the state be in control of them?",
+            "question_cs": "Měli by dělníci vlastnit výrobní prostředky přimo, nebo by je měl spravovat stát?",
             "answers": [
                 "workers",
                 "state"
@@ -674,6 +692,7 @@ questions = { // don't change this line
         },
         "esobullshit": {
             "question_en": "Should class/nation be the main subject of political discussion, or should it be the Dasein (human essence)?",
+            "question_cs": "Měl(a) by být třída/národ hlavním předmětem politické diskuze, nebo by to měla být lidská esence zvaná dasin?" ,
             "answers": [
                 "dasein",
                 "classnation"
@@ -687,6 +706,7 @@ questions = { // don't change this line
         },
         "bankjews": {
             "question_en": "Do you believe that the source economic problems faced by workers is down to Jewish bankers?",
+            "question_cs": "Myslíte si, že zdrojové ekonomické problémy jsou způsobeny židovskými bankéři?",
             "answers": [
                 "yes",
                 "no"
@@ -700,6 +720,7 @@ questions = { // don't change this line
         },
         "aboveall2": {
             "question_en": "Do you think that the nation should be of most importance above all?",
+            "question_cs": "Myslíte si, že by národ měl být nejvyšší důležitosti nade vše?",
             "answers": [
                 "yes",
                 "no"
@@ -713,6 +734,7 @@ questions = { // don't change this line
         },
         "agriculture_industrial": {
             "question_en": "Should society be focused more on agriculture than on industrial work?",
+            "question_cs": "Měla by společnost být více orientovaná na zemědělství, než na průmyslovou výrobu?",
             "answers": [
                 "yes",
                 "no"
@@ -726,6 +748,7 @@ questions = { // don't change this line
         },
         "synd3": {
             "question_en": "Should society be organised through unions?",
+            "question_cs": "Měla by být společnost organizována skrz odbory?",
             "answers": [
                 "yes",
                 "no"
