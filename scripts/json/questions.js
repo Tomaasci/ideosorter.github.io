@@ -114,6 +114,7 @@ questions = { // don't change this line
         },
         "limited_gov_tradvals": {
             "question_en": "Do you think a more limited government would lead to a resurgence in traditional values?",
+            "question_cs": "Myslíte si, že více omezená moc vlády vyústí v obnovu tradičních hodnot?",
             "answers": [
                 "yes",
                 "no"
@@ -127,6 +128,7 @@ questions = { // don't change this line
         },
         "tradvals": {
             "question_en": "In your ideal society, would traditional values be upheld?",
+            "question_cs": "Byly by tradiční hodnoty prosazovány ve Vaší ideální společnosti",
             "answers": [
                 "yes",
                 "no"
@@ -140,6 +142,7 @@ questions = { // don't change this line
         },
         "tradauthstate": {
             "question_en": "Do you deem an authoritarian state necessary to secure the values and sovereignty of your nation?",
+            "question_cs": "Považujete autoritní stát za nutný k zabezpečení hodnot a suverenity Vašeho národa?",
             "answers": [
                 "yes",
                 "no"
@@ -153,6 +156,7 @@ questions = { // don't change this line
         },
         "corp_cap": {
             "question_en": "Should the government embrace capitalism or corporatism?",
+            "question_cs": "Měla by vláda příjmout spíše kapitalismus nebo korporatismus?",
             "answers": [
                 "capitalism",
                 "corporatism"
@@ -166,6 +170,7 @@ questions = { // don't change this line
         },
         "markreg": {
             "question_en": "Should the market be closely regulated?",
+            "question_cs": "Měl by trh být přísně regulován?",
             "answers": [
                 "yes",
                 "no"
@@ -179,6 +184,7 @@ questions = { // don't change this line
         },
         "unions_vs_state": {
             "question_en": "Should the economy by organized by unions, or by the state?",
+            "question_cs": "Měla by ekonomika být organizována podle odborů, nebo státem?",
             "answers": [
                 "unions",
                 "state"
@@ -192,6 +198,7 @@ questions = { // don't change this line
         },
         "clergygov": {
             "question_en": "Should the clergy be a part of government?",
+            "question_cs": "Mělo by duchovenstvo být částí vlády?",
             "answers": [
                 "yes",
                 "no"
@@ -205,6 +212,7 @@ questions = { // don't change this line
         },
         "racesuperior": {
             "question_en": "Do you deem your race to be superior above all others?",
+            "question_cs": "Považujete Vaši rasu za nadřízenou ostatním?",
             "answers": [
                 "yes",
                 "no"
@@ -218,6 +226,7 @@ questions = { // don't change this line
         },
         "strong_safety_net": {
             "question_en": "Should there be a strong social safety net for the disadvantaged in society?",
+            "question_cs": "Měla by tu být silná sociální “záchranná síť” pro znevýdoněné ve společnosti?",
             "answers": [
                 "yes",
                 "no"
@@ -231,6 +240,7 @@ questions = { // don't change this line
         },
         "intervgov": {
             "question_en": "Should the government intervene in wars that do not directly interfere with your country's national sovereignty?",
+            "question_cs": "Měla by vláda zasahovat ve válkách, které nesouvisejí přímo s národní suverenitou?",
             "answers": [
                 "yes",
                 "no"
@@ -244,6 +254,7 @@ questions = { // don't change this line
         },
         "govbasicneeds": {
             "question_en": "Should the government provide the basic necessities to its citizens?",
+            "question_cs": "Měla by vláda poskytovat základní nutnosti jejím občanům?",
             "answers": [
                 "yes",
                 "no"
@@ -257,6 +268,7 @@ questions = { // don't change this line
         },
         "econreg": {
             "question_en": "Should the economy be tightly regulated?",
+            "question_cs": "Měla by ekonomika být přísně regulována?",
             "answers": [
                 "yes",
                 "no"
@@ -270,6 +282,7 @@ questions = { // don't change this line
         },
         "counter_economics": {
             "question_en": "Should counter-economics be the focus of bringing about an ideal society?",
+            "question_cs": "Měla by kontraekonomie být ohniskem přivození ideální společnosti?",
             "answers": [
                 "yes",
                 "no"
@@ -283,6 +296,7 @@ questions = { // don't change this line
         },
         "coop_ancap": {
             "question_en": "Do you think that a completely deregulated, stateless society will lead to a market dominated by worker co-operatives?",
+            "question_cs": "Myslíte si, že kompletně neregulovaná, nestátní společnost vyústí v trh dominovaný dělnickými družstvy?",
             "answers": [
                 "yes",
                 "no"
@@ -296,6 +310,7 @@ questions = { // don't change this line
         },
         "scope_of_government2": {
             "question_en": "Should the scope of government be limited?",
+            "question_cs": "Měla by moc vlády být omezena?",
             "answers": [
                 "yes",
                 "no",
@@ -311,6 +326,7 @@ questions = { // don't change this line
         },
         "landwelfare": {
             "question_en": "Should the revenue from land value taxes be put primarily towards welfare?",
+            "question_cs": "Měl by zisk daní z hodnoty pozemku primárně být použit na sociální zabezpečení?",
             "answers": [
                 "yes",
                 "no"
@@ -324,6 +340,7 @@ questions = { // don't change this line
         },
         "market": {
             "question_en": "Should the market mechanism drive the allocation of goods?",
+            "question_cs": "Měl by tržní mechanismus řídit přidělování produktů?",
             "answers": [
                 "yes",
                 "no"
@@ -337,6 +354,7 @@ questions = { // don't change this line
         },
         "statesoc": {
             "question_en": "Should there be a strong authoritarian state to protect the working class from foreign nations?",
+            "question_cs": "Měl by tu být silný autoritní stát na ochranu pracující třídy před ostatními zeměmi?",
             "answers": [
                 "yes",
                 "no",
@@ -352,6 +370,7 @@ questions = { // don't change this line
         },
         "mutualaid": {
             "question_en": "Should the economy be based around the principles of mutual aid?",
+            "question_cs": "Měla by ekonomie být založena kolem principů vzájemné pomoci?",
             "answers": [
                 "yes",
                 "no"
@@ -365,6 +384,7 @@ questions = { // don't change this line
         },
         "racism": {
             "question_en": "Should communities be made up of ethnically homogenous populations?",
+            "question_cs": "Měly by komunity být složeny z etnicky stejnorodých populací?",
             "answers": [
                 "yes",
                 "no"
@@ -378,6 +398,7 @@ questions = { // don't change this line
         },
         "marx": {
             "question_en": "Should the goal of our society be to move towards a classless, moneyless and stateless society?",
+            "question_cs": "Měl by cíl naší společnosti být přesun k beztřídné, bezpeněžité a bezstátní společnosti?",
             "answers": [
                 "yes",
                 "no"
@@ -391,6 +412,7 @@ questions = { // don't change this line
         },
         "transstate": {
             "question_en": "Is a transitory state necessary to reach this goal?",
+            "question_cs": "Je přechodný stát potřeba na splění tohot cíle?",
             "answers": [
                 "yes",
                 "no"
@@ -404,6 +426,7 @@ questions = { // don't change this line
         },
         "soc_directstate1": {
             "question_en": "Should the workers directly own the means of production in this stage, or should the state be in control of them?",
+            "question_cs": "Měli by pracující přímo vlastnit výrobní prostředky v této fázi, nebo by je měl stát vlastnit?",
             "answers": [
                 "workers",
                 "state"
