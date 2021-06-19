@@ -86,7 +86,7 @@ questions = { // don't change this line
         },
         "welfare": {
             "question_en": "Should there be a focus on helping the disadvantaged?",
-            "question_cs": "Mělo by být zaměření na pomoc znevýhodněným?",
+            "question_cs": "Mělo by tu být zaměření na pomoc znevýhodněným?",
             "answers": [
                 "yes",
                 "no"
@@ -114,6 +114,7 @@ questions = { // don't change this line
         },
         "limited_gov_tradvals": {
             "question_en": "Do you think a more limited government would lead to a resurgence in traditional values?",
+            "question_cs": "Myslíte si, že omezená vláda by vyvolala znovuobnovu tradičních hodnot?",
             "answers": [
                 "yes",
                 "no"
