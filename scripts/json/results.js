@@ -27,7 +27,9 @@ results = {
     result_en: "You're an Agrarian Socialist", // Result 3
     desc_en:
       "Agrarian Socialism is an ideology that seeks to combine an agrarian lifestyle and socialist economic system, mostly focusing on land redistribution and social ownership of land.",
-    result_zhCN: "你是一个农业社会主义者",
+    result_cs:"Jste agrárním socialistou!",
+    desc_cs: "Agrární socialismus je ideologie snažící se zkombinovat agrární životní styl a socialistický ekonomický systém, soustředící se hlavně na přerozdělování půdy a sociální vlastnictví půdy.",
+result_zhCN: "你是一个农业社会主义者",
     desc_zhCN:
       "农业社会主义旨在将农业生活方式和社会主义经济制度结合起来，主要侧重于土地再分配和土地的社会所有权。",
   },
@@ -35,6 +37,8 @@ results = {
     result_en: "You're an Anarcho-Capitalist", // Result 4
     desc_en:
       "Anarcho-Capitalism, also called Voluntaryism, is an ideology that advocates for the creation of a stateless society based on property rights and the Non-Aggression Principle.",
+    result_cs: "Jste anarchokapitalistou",
+    desc_cs: "Anarchokapitalismus, také zvaný voluntaryismus, je ideologie obhajující vytvoření bezstátní společnosti založené na právech k vlastnictví a principu neagrese.",
     result_zhCN: "你是一个无政府资本主义者",
     desc_zhCN:
       "无政府资本主义，也叫自愿主义，是一种主张在所有权和不侵犯原则基础上建立无国家社会的意识形态。",
